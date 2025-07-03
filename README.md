@@ -42,3 +42,27 @@ data analytics project that takes raw sales data from a CSV file and prepares it
 | Libraries      | `pandas`, `psycopg2` |
 | Database       | PostgreSQL           |
 | Query Language | SQL                  |
+
+### Interactive dashboard - Tableau
+
+Sales change month-to-month or year-to-year.
+
+https://public.tableau.com/views/SalesTrendOverTime_17515601095110/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Sales by Category and Sub-Category
+
+https://public.tableau.com/views/SalesbyCategoryandSub-Category_17515603043920/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Products with high sales but low profit.
+
+https://public.tableau.com/views/ProfitvsSales_17515645341810/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Customer segment with the most sales in each region.
+
+https://public.tableau.com/views/SalesbySegmentandRegion_17515647661800/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+
+
+
+
